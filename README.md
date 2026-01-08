@@ -22,7 +22,7 @@ Designed with a **clean dark theme**, smooth transitions, and mobile-first respo
 
 ## 📸 Preview
 
-Preview.png
+![Login & Signup UI Preview](assets/Preview.png)
 
 
 ---
