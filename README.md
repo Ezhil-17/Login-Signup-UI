@@ -14,7 +14,7 @@ Designed with a **clean dark theme**, smooth transitions, and mobile-first respo
 
 ## 🌐 Live Demo
 
-🔗 **View Live:** https://your-username.github.io/login-signup-ui/
+🔗 **View Live:** https://github.com/Ezhil-17/Login-Signup-UI/tree/main
 
 
 
@@ -22,7 +22,7 @@ Designed with a **clean dark theme**, smooth transitions, and mobile-first respo
 
 ## 📸 Preview
 
-![Login & Signup UI Preview](assets/Preview.png)
+![Login & Signup UI Preview](asset/Preview.png)
 
 
 ---
